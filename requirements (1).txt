@@ -1,8 +1,0 @@
-streamlit>=1.35.0
-streamlit-webrtc>=0.47.0
-av>=12.0.0
-
-# Model/detection logic — yolo-model repo se directly install hoga
-# <your-username> ko apne GitHub username se replace karo, aur pehle
-# yolo-model repo ko GitHub par upload karo
-git+https://github.com/<your-username>/yolo-model.git
